@@ -1,3 +1,3 @@
-#daily learning
-##Moring planning
-##Review
+# daily learning
+## Moring planning
+## Review
